@@ -1,7 +1,7 @@
 WBExport -type=text
          -file='c:/scripts/boopsie/catalog_extract_full.txt'
          -delimiter=\t
-	       -header=false
+         -header=false
          -lineEnding=crlf
          -encoding=utf8;
 SELECT 
