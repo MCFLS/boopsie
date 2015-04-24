@@ -1,4 +1,4 @@
-Both SQL Workbench /J and WINSCP offer a command line interface which makes it easy to work with both to send the file to Boopsie using a Windows batch file.  Please note I only export bib record number, title, author, publisher, year, format and ISBN to Boopsie, NOT the full record.  I also automatically compress the file with 7z per Boopsie's instructions
+Both SQL Workbench /J and WINSCP offer a command line interface which makes it easy to work with both applications to send the file to Boopsie using a Windows batch file.  Please note I only export bib record number, title, author, publisher, year, format and ISBN to Boopsie, NOT the full record.  I also automatically compress the file with 7zip per Boopsie's instructions
 
 DOWNLOAD APPLICATIONS
 
