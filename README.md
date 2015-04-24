@@ -22,9 +22,9 @@ Edit file 'boopsie.sql'
 
 Edit file 'boopsie.bat'
 
-8. Change profile name used by SQL Workbench /J from "-profile=CountyCat" to "-profile=[your profile name in step 4]"
+8. Change profile name used by SQL Workbench /J from "-profile=CountyCat" to "-profile=[your SQL Workbench profile name]"
 
-9. Change profile name used by WINSCP from "open boopsie" to "open [your profile name in step 5]"
+9. Change profile name used by WINSCP from "open boopsie" to "open [your WINSCP profile name]"
 
 Save both files boopsie.bat and boopsie.sql
 
