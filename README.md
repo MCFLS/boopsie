@@ -10,7 +10,7 @@ DOWNLOAD APPLICATIONS
 
 SET UP PROFILES FOR APPLICATIONS
 
-4. Set up a connection profile in SQL Workbench /J to connect to your Sierra SQL instance.  Make sure a connection can be made to your database.
+4. Set up a connection profile in SQL Workbench /J to connect to your Sierra SQL instance.  Make sure a connection can be made to your database.  My connection info is attached as separate images (main profile and extended properties window).
 
 5. Set up a connection profile in WINSCP to connect to Boopsie.  
 
